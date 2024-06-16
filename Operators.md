@@ -1,13 +1,13 @@
 ### Operators
 
 Arithemetic operators
- """ "+",
+ "+",
  "-",
  "*",
  "/",
  "//",
  "%",
- "**""""
+ "**
 
 #Assignment operators
  "="
