@@ -1,27 +1,27 @@
 ### Operators
 
-##Arithemetic operators
-# "+"
-# "-"
-# "*"
-# "/"
-# "//"
-# "%"
-# "**"
+#Arithemetic operators
+ "+"
+ "-"
+ "*"
+ "/"
+ "//"
+ "%"
+ "**"
 
-##Assignment operators
-# "="
-# "+="
-# "-="
-# "*="
-# "/="
-# "%="
+#Assignment operators
+ "="
+ "+="
+ "-="
+ "*="
+ "/="
+ "%="
 
-##Comparision Operators"
-# ">"
-# "<"
-# "<="
-# ">="
-# "!="
-# '=="
+#Comparision Operators"
+ ">"
+ "<"
+ "<="
+ ">="
+ "!="
+ '=="
 #
