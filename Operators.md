@@ -7,7 +7,7 @@ Arithemetic operators
  "/",
  "//",
  "%",
- "**
+ "**"
 
 #Assignment operators
  "="
